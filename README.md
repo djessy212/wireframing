@@ -128,3 +128,6 @@ Use Low-Fidelity Wireframes:
 
 Use High-Fidelity Wireframes:
 → When you're refining the design for usability testing, stakeholder approval, or ready for handoff to developers.
+
+What type of wireframes was used in the example?.
+The wireframe is a High Fidelity Wireframes
