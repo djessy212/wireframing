@@ -56,3 +56,75 @@ Used to demonstrate where real content will go, without needing final copy.
 Some wireframes show variations for different screen sizes (mobile, tablet, desktop).
 
 Types of Wireframes
+
+Low-Fidelity Wireframes
+✅ Definition:
+
+Low-fidelity (lo-fi) wireframes are basic sketches or simplified digital layouts that outline the structure and flow of a user interface. They are not detailed and often lack color, images, or precise spacing.
+
+✅ Characteristics:
+
+Rough and quick to create
+
+Often hand-drawn or made with simple digital tools
+
+Focus on layout, structure, and content hierarchy
+
+Use placeholders like boxes and lines
+
+Usually black and white or grayscale
+
+No attention to typography or visual design
+
+✅ Used When:
+
+Early in the design process
+
+Brainstorming ideas
+
+Gathering feedback on general layout and user flow
+
+Collaborating with stakeholders or clients before committing to details
+
+🔹 High-Fidelity Wireframes
+✅ Definition:
+
+High-fidelity (hi-fi) wireframes are detailed representations of the final product. They may closely resemble the finished design and often include actual content, UI components, and interactive elements.
+
+✅ Characteristics:
+
+Pixel-precise layouts
+
+Real text and images (or close to final)
+
+Include fonts, colors, icons, and branding
+
+May simulate interactions (clicks, hovers, transitions)
+
+Often built in tools like Figma, Adobe XD, or Sketch
+
+✅ Used When:
+
+Later in the design process
+
+Preparing for usability testing or stakeholder review
+
+Communicating detailed functionality to developers
+
+Getting closer to hand-off for development
+
+🔁 Summary Table:
+Feature	Low-Fidelity Wireframe	High-Fidelity Wireframe
+Detail Level	Low (basic shapes, placeholders)	High (actual content, design elements)
+Visual Design	None or minimal	Includes branding, typography, colors
+Tools Used	Paper, Balsamiq, pen & paper	Figma, Adobe XD, Sketch
+Speed to Create	Fast and simple	Time-consuming and detailed
+Purpose	Brainstorming, early feedback	Final layout, developer handoff
+User Testing	Early concept testing	More realistic usability testing
+🛠️ When to Use Each:
+
+Use Low-Fidelity Wireframes:
+→ When you're in the early ideation stage, want quick feedback, or are exploring multiple layout options.
+
+Use High-Fidelity Wireframes:
+→ When you're refining the design for usability testing, stakeholder approval, or ready for handoff to developers.
