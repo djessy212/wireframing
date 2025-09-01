@@ -54,3 +54,5 @@ Used to demonstrate where real content will go, without needing final copy.
 9. Responsiveness (Optional)
 
 Some wireframes show variations for different screen sizes (mobile, tablet, desktop).
+
+Types of Wireframes
